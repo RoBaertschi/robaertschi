@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hello!
+
+Im RoBaertschi and i live in Switzerland.
+
+Languages i speak:
+- German
+- English
+
+I like:
+- Minecraft
+- FOSS
+- Linux
+- Programming
 
 <!--
 **RoBaertschi/robaertschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
