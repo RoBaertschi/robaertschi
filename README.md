@@ -1,16 +1,23 @@
-### Hello!
+# Hello!
 
-Im RoBaertschi and i live in Switzerland.
+Welcome to my Profile. My name is Robin Bärtschi. I am currently an apprentice as an Programmer.
 
-Languages i speak:
-- German
-- English
+## What i do.
+I did some Minecraft Modding and Plugin development. I also really like low level stuff.
 
-I like:
-- Minecraft
-- FOSS
-- Linux
-- Programming
+Currently im writing my own implementation of the Monkey Programming Language.
+
+## Languages
+_Language (Understanding%)_
+- Go (80%)
+- Lua (80%)
+- Rust (50%)
+- Zig (30%)
+- C (60%)
+- Java (85%)
+- TypeScript (75%)
+- JavaScript (69%)
+- Python (70%)
 
 <!--
 **RoBaertschi/robaertschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
